@@ -12,3 +12,4 @@ You can use this SRD in several ways:
 The Daggerheart SRD is not a replacement for the core rulebook, which contains setting information, additional examples of various gameplay elements, and tons of great advice for playing Daggerheart—not to mention gorgeous artwork and layout.
 
 In short, it is Daggerheart, the system, boiled down to the bones—a lean and clean offering without all the flavor, style, and supporting material that makes the core rulebook such an evocative and enjoyable read. We hope this document proves useful to your table. Happy adventuring!
+Sync Test
